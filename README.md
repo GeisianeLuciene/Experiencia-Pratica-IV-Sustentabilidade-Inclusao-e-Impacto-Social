@@ -101,8 +101,7 @@ Instituição: Faculdade Cruzeiro do Sul
 
 ## 🔗 Links Úteis
 
-- [Canvas do Projeto](#) *(inserir link real se houver)*  
-- [Protótipo do App](#) *(inserir link real se houver)*  
+- [Canvas do Projeto](#) *(https://drive.google.com/file/d/1iuaAiDv4lhJFMf6F9bNsS3K-f6OdmXeJ/view?usp=drive_link)*   
 
 ---
 
